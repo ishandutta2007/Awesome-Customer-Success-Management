@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Customer-Success-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Customer-Success-Management?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Customer-Success-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Customer-Success-Management?style=flat-square&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Customer-Success-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Customer-Success-Management?style=flat-square&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Customer-Success-Management/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -55,29 +55,29 @@ The Customer Success Management (CSM) software market is estimated at approximat
 
 ## 💻 Open-Source GitHub Projects
 
-The open-source customer success landscape comprises specialized CRM foundations, customer support hubs, lifecycle notification orchestration, and emerging CS portals. The projects below are sorted by GitHub star counts (descending):
+The open-source customer success landscape comprises specialized CRM foundations, customer support hubs, lifecycle notification orchestration, and emerging CS portals. The projects below are sorted by GitHub Stars_Counts (descending):
 
-### 1. **[Twenty](https://github.com/twentyhq/twenty)** [![GitHub stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)
+### 1. **[Twenty](https://github.com/twentyhq/twenty)** [![GitHub_Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)
 - **Description**: A modern, open-source CRM alternative to Salesforce designed for AI-native workflows. Provides powerful relational customer tracking, extensible custom objects, and real-time event subscriptions suited for custom customer health scoring pipelines.
 - **Tech Stack**: TypeScript, NestJS, React, PostgreSQL.
 - **Best For**: Engineering-first teams building tailored CSM dashboards and customer relationship lifecycle trackers.
 
-### 2. **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![GitHub stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)
+### 2. **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![GitHub_Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)
 - **Description**: Omnichannel customer engagement and support desk platform (alternative to Intercom and Zendesk). Enables customer success managers to coordinate live customer conversations, track user sentiment, and centralize communication histories across email, live chat, WhatsApp, and social media.
 - **Tech Stack**: Ruby on Rails, Vue.js, PostgreSQL, Redis.
 - **Best For**: Managing real-time customer support interactions and qualitative health signals.
 
-### 3. **[SuiteCRM](https://github.com/SuiteCRM/SuiteCRM)** [![GitHub stars](https://img.shields.io/github/stars/SuiteCRM/SuiteCRM?style=social&color=white)](https://github.com/SuiteCRM/SuiteCRM/stargazers)
+### 3. **[SuiteCRM](https://github.com/SuiteCRM/SuiteCRM)** [![GitHub_Stars](https://img.shields.io/github/stars/SuiteCRM/SuiteCRM?style=social&color=white)](https://github.com/SuiteCRM/SuiteCRM/stargazers)
 - **Description**: Enterprise-grade open-source customer relationship management platform. Supports end-to-end account management, contract and SLA tracking, renewal workflows, and custom reporting modules for enterprise retention tracking.
 - **Tech Stack**: PHP, Symfony, MariaDB/MySQL.
 - **Best For**: Self-hosted enterprise deployments requiring on-premise data sovereignty and extensive SLA compliance auditing.
 
-### 4. **[Dittofeed](https://github.com/dittofeed/dittofeed)** [![GitHub stars](https://img.shields.io/github/stars/dittofeed/dittofeed?style=social&color=white)](https://github.com/dittofeed/dittofeed/stargazers)
+### 4. **[Dittofeed](https://github.com/dittofeed/dittofeed)** [![GitHub_Stars](https://img.shields.io/github/stars/dittofeed/dittofeed?style=social&color=white)](https://github.com/dittofeed/dittofeed/stargazers)
 - **Description**: Open-source customer engagement and automated lifecycle messaging engine (alternative to Customer.io). Powers automated customer success playbooks, onboarding sequences, churn prevention nudges, and account milestone alerts triggered by user telemetry.
 - **Tech Stack**: TypeScript, ClickHouse, Node.js, Temporal.
 - **Best For**: Automating event-driven customer success playbooks and onboarding engagement without leaking user PII to external vendors.
 
-### 5. **[CXM-Tool](https://github.com/antigravitysoham-eng/CXM-Tool)** [![GitHub stars](https://img.shields.io/github/stars/antigravitysoham-eng/CXM-Tool?style=social&color=white)](https://github.com/antigravitysoham-eng/CXM-Tool/stargazers)
+### 5. **[CXM-Tool](https://github.com/antigravitysoham-eng/CXM-Tool)** [![GitHub_Stars](https://img.shields.io/github/stars/antigravitysoham-eng/CXM-Tool?style=social&color=white)](https://github.com/antigravitysoham-eng/CXM-Tool/stargazers)
 - **Description**: Full-stack Customer Experience (CX) management portal. Features interactive portfolio dashboards (Gross/Net Retention, Churn Risk, upcoming Renewals), customer directories, proactive account health checks, contract lifecycle tracking, and an AI assistant analyzing NPS and health metrics.
 - **Tech Stack**: React 19, Vite, Express, SQLite, JWT auth.
 - **Best For**: Developers seeking a reference architecture or foundational template for a dedicated self-hosted CX/CS portal.
