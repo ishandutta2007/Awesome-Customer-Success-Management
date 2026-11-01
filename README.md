@@ -32,79 +32,30 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The Customer Success Management (CSM) software market is estimated at approximately $2.2B to $2.7B in 2025–2026, expanding at an annual growth rate (CAGR) of over 20% toward $3.4B+ as recurring revenue businesses prioritize net retention and churn reduction over pure acquisition. The sector is moderately concentrated at the top—anchored by established pure-play pioneers (Gainsight, ChurnZero, Totango) and massive CRM ecosystems (HubSpot, Salesforce)—surrounded by a fragmented long tail of specialized point solutions for customer telemetry, onboarding, and self-hosted tooling.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Gainsight](https://www.gainsight.com/)**
-
-  **Enterprise customer success platform** with health scoring, playbooks, and AI (Atlas). **Pricing**: **Quote-only** on both Customer Success tiers; **no self-serve trial**—the free trial on the shared pricing page belongs to Product Experience, not Customer Success . Essentials capped at **10 full users and 100 customers per user** . **Free tier**: None. **Best for**: large enterprises wanting the most mature CS platform—**trade-off**: ~5 month average implementation; cannot evaluate without sales engagement .
-
-
-
-- **[ChurnZero](https://churnzero.com/)**
-
-  **Customer success platform** with real-time health scoring and automation. **Pricing**: **Starting at $12,000/year** per Software Advice . **Free tier**: **No free version**; free trial listed . **Best for**: SMBs and mid-market teams wanting real-time churn signals—**trade-off**: limited public pricing detail beyond entry point.
-
-
-
-- **[Totango](https://www.totango.com/)**
-
-  **Customer success and retention platform**. **Pricing**: **Not provided by vendor**; **no free version and no free trial** per Software Advice . **Free tier**: None. **Best for**: enterprises wanting a mature CS platform—**trade-off**: no trial; quote-only evaluation.
-
-
-
-- **[Catalyst](https://catalyst.io/)** (Totango)
-
-  **Customer growth platform** from Totango. **Pricing**: **Quote-only**; Catalyst, Totango, and Unison AI are **separately subscribed products** . **No free trial or self-serve signup**; ~2 month average implementation . **Free tier**: None. **Best for**: mid-market teams wanting Totango's methodology in a lighter package—**trade-off**: modular costs stack; no self-serve evaluation .
-
-
-
-- **[Planhat](https://www.planhat.com/)**
-
-  **Customer success platform** with configurable workflows. **Pricing**: Free version and free trial listed per Software Advice . **Free tier**: Yes, listed. **Best for**: teams wanting flexible workflow configuration—**trade-off**: verify free tier scope directly.
-
-
-
-- **[Vitally](https://www.vitally.io/)**
-
-  **Customer success platform** with AI copilot. **Pricing**: **Starting at $299/month**; **no free version**; free trial available . All three tiers require sales engagement; trial sandbox accessed through sales motion . **Free tier**: None. **Best for**: B2B SaaS teams wanting a modern CS platform with AI—**trade-off**: quote-only above entry tier; no self-serve trial .
-
-
-
-- **[ClientSuccess](https://www.clientsuccess.com/)**
-
-  **Customer success platform** with onboarding and health scoring. **Pricing**: **Starting at $15,000/year**; **no free version**; free trial available . **Free tier**: None. **Best for**: mid-market to enterprise teams wanting structured CS workflows—**trade-off**: $15K annual minimum.
-
-
-
-- **[Custify](https://www.custify.com/)**
-
-  **Mid-market customer success platform**. **Pricing**: **Custom/quote-only**; **no published tiers or starting prices**; **no self-serve trial**—demo-required sales motion . **Free tier**: None. **Best for**: mid-market SaaS teams wanting CS automation—**trade-off**: cannot qualify budget without sales call .
-
-
-
-- **[SmartKarrot](https://www.smartkarrot.com/)**
-
-  **Customer success platform** with product analytics. **Pricing**: **Starting at $15,000/year** per Software Advice . **Free tier**: Free trial and free version listed . **Best for**: teams wanting CS plus product engagement—**trade-off**: verify free version scope.
-
-
-
-- **[HubSpot Customer Success Tools](https://www.hubspot.com/)**
-
-  **CS tools within HubSpot** Service Hub. **Pricing**: Included with Service Hub Professional ($100/seat/month) and Enterprise. **Free tier**: Limited. **Best for**: HubSpot CRM users wanting CS workflows without a separate platform—**trade-off**: not a dedicated CS platform; health scoring limited.
-
-
+| Platform | Company Size (Valuation / Revenue) | Pricing | Free Tier / Trial Limits | Description & Key Strengths |
+| :--- | :--- | :--- | :--- | :--- |
+| **[HubSpot Customer Success Tools](https://www.hubspot.com/)** | ~$12B+ Market Cap (NYSE: HUBS) / ~$3.1B+ ARR | Paid Service Hub starts at $15–$20/seat/mo (Starter); CS features require Professional tier at $90–$100/seat/mo + onboarding | Free forever tier available: Capped at 2 users, 1,000 contacts, 1 shared inbox, 3 canned snippets, 1 meeting link, and community-only support | CS tools integrated directly within Service Hub; best for teams already running on HubSpot CRM. Health scoring is basic compared to pure-play platforms. |
+| **[Gainsight](https://www.gainsight.com/)** | $1.1B Valuation (Vista Equity acquisition) / ~$200M+ ARR | Starts at ~$150/user/month (annual contract ~$30,000/year minimum) | No free tier; free trial on website is restricted to Product Experience (PX) only (CS platform requires guided demo / pilot) | Enterprise category leader with deep health scoring, AI copilots (Atlas), and automated playbooks; requires ~5 month implementation. |
+| **[Planhat](https://www.planhat.com/)** | ~$550M Valuation ($50M Series A) / ~$25M–$33M ARR | Starts at $1,150/month (billed annually, ~$13,800/year minimum) for Start-Up plan with unlimited seats | No free tier and no self-serve free trial; access requires a vendor demo and guided proof-of-concept (POC) | Highly configurable customer platform offering unlimited user seats and modern data-layer modeling across customer journeys. |
+| **[Totango](https://www.totango.com/)** | ~$150M+ Total Funding / ~$40M ARR (Merged with Catalyst) | Starts at ~$1,000–$1,500/month (typically ~$12,000–$18,000/year annual contract) | No free tier and no self-serve free trial; evaluation requires demo request and sales-assisted trial/pilot | Enterprise customer retention and product-led growth platform; features modular composable CS architecture. |
+| **[Catalyst](https://catalyst.io/)** | ~$65M+ Total Funding / ~$10M–$20M ARR (Merged with Totango) | Starts at ~$500/month (annual agreements starting ~$6,000–$12,000/year) | No free tier and no self-serve free trial; sandbox access granted via sales consultation | Customer growth and collaboration platform with intuitive UI and bidirectional CRM sync; merged with Totango under Great Hill Partners. |
+| **[ChurnZero](https://churnzero.com/)** | ~$35M Total Funding / ~$25M–$50M ARR | Starts at $12,000/year ($1,000/month billed annually) for entry tier | No free tier and no self-serve free trial; evaluation requires a scheduled consultation and live product demo | Real-time health scoring, customer journeys, and automated playbooks optimized for mid-market and SMB SaaS teams. |
+| **[Vitally](https://www.vitally.io/)** | ~$40M+ Funding ($30M Series B) / ~$15M–$25M ARR | Starts at $299/month for starter tier; higher tiers scale via custom annual contracts | 14-day free trial available (sandbox environment accessed through sales-assisted signup); no permanent free tier | Modern, collaborative CS platform with built-in AI copilots, customer-facing docs/portals, and flexible real-time integrations. |
+| **[ClientSuccess](https://www.clientsuccess.com/)** | Bootstrapped / Seed-funded / ~$10M–$15M ARR | Starts at $15,000/year ($1,250/month billed annually) | No free tier and no self-serve free trial; platform evaluation is provided via scheduled sales demo and guided POC | Structured customer onboarding, success scores, and renewal tracking designed for growing mid-market B2B teams. |
+| **[Custify](https://www.custify.com/)** | Bootstrapped / Private / ~$2.7M ARR | Starts at $899/month (entry plan typically covering up to 3 CSM users) | No permanent free tier; 14-day guided trial/sandbox provided upon request via sales demo | Agile CS platform tailored for B2B SaaS businesses wanting automated health scoring, KPI tracking, and rapid setup. |
+| **[SmartKarrot](https://www.smartkarrot.com/)** | Early Stage / ~$1.1M Funding / ~$1M–$5M ARR | Starts at $15,000/year (or entry plans starting at $499/user/month) | No free tier and no self-serve free trial; access requires a scheduled personalized product demo | Blends customer success management with product engagement analytics, account surveys, and automated playbooks. |
 
 ## Open-Source GitHub Projects
 
